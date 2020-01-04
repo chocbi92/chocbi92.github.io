@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 상혁이와 코딩을 배워오자에 오신걸 환영합니다!
 
 You can use the [editor on GitHub](https://github.com/chocbi92/chocbi92.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
